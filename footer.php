@@ -17,8 +17,8 @@
                     <li><a href="https://www.knottylogistics.com/about" class="text-white"
                             onclick="navigateToParent('/about')">About</a></li>
                     <!-- <li><a href="#" class="text-white">Services</a></li> -->
-                    <!-- <li><a href="https://www.knottylogistics.com/" class="text-white"
-                            onclick="navigateToParent('/')">Blog</a></li> -->
+                    <li><a href="https://www.knottylogistics.com/" class="text-white"
+                            onclick="navigateToParent('/blog')">Blogs</a></li>
                     <li><a href="https://www.knottylogistics.com/contact" class="text-white"
                             onclick="navigateToParent('/contact')">Contact Us</a></li>
                     <li><a href="https://www.knottylogistics.com/privacy-policy" class="text-white"

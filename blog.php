@@ -107,11 +107,14 @@
                                         src="assets/images/index/s1.png" alt=""></a>
                             </div>
                             <div class="swiper-slide">
-                                <img src="assets/images/index/s2.png" alt="">
+                                <a href="The-Unsung-Heroes" target="_blank"> <img src="assets/images/index/s2.png"
+                                        alt=""> </a>
                             </div>
                             <div class="swiper-slide">
-                                <img src="assets/images/index/s1.png" alt="">
+                                <a href="Cracking-the-Broker-Code" target="_blank"> <img
+                                        src="assets/images/index/s3.png" alt=""> </a>
                             </div>
+
                         </div>
                     </div>
                 </div>

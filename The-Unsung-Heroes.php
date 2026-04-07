@@ -27,10 +27,7 @@
                 <div class="col-md-12">
                     <div data-aos="fade-up">
 
-                        <h1>The 5 AM Stare-Down: <br> Why "Dead Time" is Eating Your Take-Home Pay
-                        </h1>
-
-
+                        <h1>The Unsung Heroes: <br> The Skill Behind the Spill </h1>
 
                     </div>
                 </div>
@@ -50,41 +47,34 @@
 
                 <div class="col-lg-12 pb-20">
                     <div data-aos="fade-up">
-                       
 
-                        <!-- <h2 class="mt-0 about-heading">Knotty Logistics Privacy Policy</h2>
-                        <p class="text">Effective Date: September 09, 2025</p>
-                        <p class="text">Last Updated: September 16, 2025</p> -->
                         <br>
-                        <h2 class="mt-0 about-heading"> The Struggle:</h2>
-                        <p class="text">You know the feeling. The sun isn’t even up, the coffee in your cup is already
-                            lukewarm, and you’re 14th in line at the quarry. Your engine is idling, burning roughly a
-                            gallon of diesel an hour just to keep the cab warm. In the world of aggregate hauling, if
-                            the wheels aren't turning, you aren't earning. But the "Dead Time" problem is deeper than
-                            just fuel—it’s about missed opportunities. While you’re sitting at the crusher, there’s a
-                            job across town that’s short on trucks, but you can’t get there because you’re stuck in a
-                            "blind" line.
+                        <h2 class="mt-0 about-heading"> The Achievement:</h2>
+                        <p class="text">OTR drivers get the big movies, but aggregate haulers build the foundations of
+                            the country. Navigating a 30-ton rig through a residential neighborhood, avoiding
+                            low-hanging power lines, and backing into a muddy slot between two pieces of heavy equipment
+                            takes a level of "spatial awareness" most people don't have. You aren't just a driver;
+                            you’re a precision operator.
+
                         </p>
                         <img src="assets/images/Blog/b1.png" alt="">
                         <br>
-                        <h2 class="mt-0 about-heading">The Hack:</h2>
-                        <p class="text">To save fuel and keep your sanity, invest in a <b> 12V Portable Slow Cooker </b>
-                            (like
-                            the HotLogic Mini). Throw in some chicken and veggies at 7:00 AM. By the time you finally
-                            get loaded and hit the road for your second run, you have a hot, healthy meal ready to go.
-                            No more $15 greasy sandwiches that make you feel sluggish by 2:00 PM.
+                        <h2 class="mt-0 about-heading">The Recognition:</h2>
+                        <p class="text">Take pride in the "Zero-Correction Backup." When you stick that trailer exactly
+                            where the loader operator needs it on the first try, you’ve saved the site 10 minutes of
+                            reshuffling. Over a 10-hour shift, that's over an hour of extra productivity for the whole
+                            crew.
                         </p>
 
                         <div class="ptb-15">
-                        <img src="assets/images/Blog/b2.png" alt="">
+                            <img src="assets/images/Blog/b2.png" alt="">
                         </div>
+                        <h2 class="mt-0 about-heading">The Knotty Edge:</h2>
+                        <p class="text">We built a Star Rating & Performance Logic into the app. We believe the best
+                            drivers should get the best jobs. If you’re consistently on time and your safety interlocks
+                            are green, the system flags you as a "Priority Asset." We’re making sure the pros get
+                            noticed by the big contractors.
 
-                        <p class="text"><b> The Knotty Edge: </b> We developed the <b> Managed Vacancy </b> engine to
-                            kill the "blind
-                            line." Our platform gives dispatchers real-time visibility into truck counts. If a site is
-                            over-capacity, the system can redirect standby assets before they even pull into the queue.
-                            We don't just want you hauling; we want you hauling efficiently so every hour of your HOS
-                            counts toward your paycheck.
 
                         </p>
 
