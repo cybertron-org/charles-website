@@ -112,6 +112,19 @@
                             <div class="swiper-slide">
                                 <img src="assets/images/index/s1.png" alt="">
                             </div>
+
+                            <!-- 5tth -->
+                            <div class="swiper-slide">
+                                <img src="assets/images/index/s2.png" alt="">
+                            </div>
+                            <!-- 6tth -->
+                            <div class="swiper-slide">
+                                <img src="assets/images/index/s1.png" alt="">
+                            </div>
+                            <!-- 7tth -->
+                            <div class="swiper-slide">
+                                <img src="assets/images/index/s2.png" alt="">
+                            </div>
                         </div>
                     </div>
                 </div>
