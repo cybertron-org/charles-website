@@ -523,7 +523,7 @@
                             <p>Stop chasing calls and paper tickets. Knotty keeps your jobs moving — simple, fast, and
                                 digital in real time.</p>
                             <br>
-                            <div><a href="https://www.knottylogistics.com/login" onclick="navigateToParent('/login')"
+                            <div><a href="https://dashboard.knottylogistics.com/login" onclick="navigateToParent('https://dashboard.knottylogistics.com/login')"
                                     class="hover1">Join NOW</a></div>
                         </div>
                     </div>
