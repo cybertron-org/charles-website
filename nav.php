@@ -93,12 +93,12 @@
             if (token) {
                 // Token exists -> Show "Open Dashboard"
                 container.innerHTML = `
-                    <a href="https://www.knottylogistics.com/home" class="hover1" onclick="navigateToParent('/home')">Open Dashboard</a>
+                    <a href="https://dashboard.knottylogistics.com/home" class="hover1" onclick="navigateToParent('https://dashboard.knottylogistics.com/home')">Open Dashboard</a>
                 `;
             } else {
                 // No token -> Show "Login"
                 container.innerHTML = `
-                    <a href="https://www.knottylogistics.com/login" class="hover1" onclick="navigateToParent('/signup')">Sign up</a>
+                    <a href="https://dashboard.knottylogistics.com/login" class="hover1" onclick="navigateToParent('https://dashboard.knottylogistics.com/login')">Login</a>
                 `;
             }
         });
