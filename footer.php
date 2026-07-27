@@ -6,7 +6,7 @@
                 <a href="/" onclick="navigateToParent('/')"> <img class="w-51" src="assets/images/index/logo.png"
                         alt=""></a>
                 <!-- <p class="head">Knotty Logistics</p> -->
-                <p class="ftext">A product of HOi Solutions.
+                <p class="ftext">Developed By HOI Solutions.
                 </p>
             </div>
             <div class="col-md-4 offset-md-1">
@@ -17,7 +17,7 @@
                     <li><a href="https://www.knottylogistics.com/about" class="text-white"
                             onclick="navigateToParent('/about')">About</a></li>
                     <!-- <li><a href="#" class="text-white">Services</a></li> -->
-                    <li><a href="https://www.knottylogistics.com/" class="text-white"
+                    <li><a href="https://www.knottylogistics.com/blog" class="text-white"
                             onclick="navigateToParent('/blog')">Blogs</a></li>
                     <li><a href="https://www.knottylogistics.com/contact" class="text-white"
                             onclick="navigateToParent('/contact')">Contact Us</a></li>

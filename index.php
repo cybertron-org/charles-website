@@ -288,7 +288,8 @@
                                     connected, and always up to date.</p>
                             </div>
                         </div>
-                        <div><a target="_blank" href="https://www.knottylogistics.com/contact" class="hover1">Book a Demo</a></div>
+                        <div><a target="_blank" href="https://www.knottylogistics.com/contact" class="hover1">Book a
+                                Demo</a></div>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -367,18 +368,18 @@
                 <!-- Video Card -->
                 <div class="col-md-5">
                     <div class="ptb-15">
-                    <div class="videoBox " data-video-id="dJtaOXD-Wdg">
-                        <img src="assets/images/About/knotty.png" alt="Video Thumbnail" class="video-thumb">
-                        <a class="video-play-btn" aria-label="Play video">
-                            <span class="fa-solid fa-play"></span>
-                        </a>
-                        <div class="video-frame">
-                            <iframe title="YouTube video player"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                allowfullscreen referrerpolicy="strict-origin-when-cross-origin">
-                            </iframe>
+                        <div class="videoBox " data-video-id="dJtaOXD-Wdg">
+                            <img src="assets/images/About/knotty.png" alt="Video Thumbnail" class="video-thumb">
+                            <a class="video-play-btn" aria-label="Play video">
+                                <span class="fa-solid fa-play"></span>
+                            </a>
+                            <div class="video-frame">
+                                <iframe title="YouTube video player"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                    allowfullscreen referrerpolicy="strict-origin-when-cross-origin">
+                                </iframe>
+                            </div>
                         </div>
-                    </div>
                     </div>
                 </div>
             </div>
@@ -456,33 +457,128 @@
                     <img src="assets/images/index/truck.png" alt="">
                     <h4 class="heading">BLOGS</h4>
                     <p class="about-heading">Ensuring Long-Term Success</p>
-                    <p class="text">
-                        Explore how innovative logistics solutions can streamline operations...
-                    </p>
+                    <p class="text">Explore how innovative logistics solutions can streamline operations...</p>
                     <div class="nav-buttons Case-studies">
                         <button id="prevSlide">&#8592;</button>
                         <button id="nextSlide">&#8594;</button>
                     </div>
                 </div>
-
                 <div class="col-md-6">
                     <div class="swiper-container">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
-                                <img src="assets/images/index/s1.png" alt="">
+                                <a href="https://knottylogistics.com/blog/why-dead-time-is-eating-your-take-home-pay"
+                                    target="_blank" class="card">
+                                    <img src="assets/images/Blog/img1.png" alt="">
+
+                                    <div class="overlay">
+                                        <!-- <div class="date">
+                                            📅 FEBRUARY 11, 2025
+                                        </div> -->
+                                        <h2>
+                                            Why "Dead Time" is Eating Your Take-Home Pay
+
+                                        </h2>
+                                    </div>
+                                </a>
                             </div>
                             <div class="swiper-slide">
-                                <img src="assets/images/index/s2.png" alt="">
+                                <a href="https://knottylogistics.com/blog/The-Unsung-Heroes" target="_blank" class="card">
+
+                                    <img src="assets/images/Blog/img2.png" alt="">
+                                    <div class="overlay">
+                                        <!-- <div class="date">
+                                            📅 FEBRUARY 11, 2025
+                                        </div> -->
+                                        <h2>
+                                            The $500 Piece of Trash: Why Paper Tickets are a Liability
+
+                                        </h2>
+                                    </div>
+                                </a>
                             </div>
                             <div class="swiper-slide">
-                                <img src="assets/images/index/s3.png" alt="">
+                                <a href="https://knottylogistics.com/blog/Cracking-the-Broker-Code" target="_blank"
+                                    class="card"> <img src="assets/images/Blog/img1.png" alt="">
+                                    <div class="overlay">
+                                        <!-- <div class="date">
+                                            📅 FEBRUARY 11, 2025
+                                        </div> -->
+                                        <h2>
+                                            The Unsung Heroes: The Skill Behind the Spill
+
+
+                                        </h2>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <!-- 5tth -->
+                            <div class="swiper-slide">
+                                <a href="https://knottylogistics.com/blog/mastering-the-site-backup" target="_blank"
+                                    class="card">
+                                    <img src="assets/images/Blog/img2.png" alt="">
+                                    <div class="overlay">
+                                        <!-- <div class="date">
+                                            📅 FEBRUARY 11, 2025
+                                        </div> -->
+                                        <h2>
+                                            Cracking the "Broker Code": How to Get on the A-List
+
+
+
+                                        </h2>
+                                    </div>
+
+                                </a>
+
+                            </div>
+                            <!-- 6tth -->
+                            <div class="swiper-slide">
+                                <a href="https://knottylogistics.com/blog/killing-the-sunday-night-math" target="_blank"
+                                    class="card">
+
+                                    <img src="assets/images/Blog/img1.png" alt="">
+
+                                    <div class="overlay">
+                                        <!-- <div class="date">
+                                            📅 FEBRUARY 11, 2025
+                                        </div> -->
+                                        <h2>
+                                            Mirror, Signal, Muscle: Mastering the Site Backup
+
+
+
+                                        </h2>
+                                    </div>
+                                </a>
+                            </div>
+                            <!-- 7tth -->
+                            <div class="swiper-slide">
+                                <a href="https://knottylogistics.com/blog/becoming-an-owner-operator-in-2026" target="_blank"
+                                    class="card">
+                                    <img src="assets/images/Blog/img2.png" alt="">
+                                    <div class="overlay">
+                                        <!-- <div class="date">
+                                            📅 FEBRUARY 11, 2025
+                                        </div> -->
+                                        <h2>
+                                            The Leap: Becoming an Owner-Operator in 2026
+
+                                        </h2>
+                                    </div>
+                                </a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
 
+
+
+
             <!-- Custom Navigation Buttons -->
+
         </div>
     </section>
     <!-- End of 1.10. Testimonials section -->
@@ -493,5 +589,3 @@
 
 
     <?php include 'footer.php'; ?>
-
-    
