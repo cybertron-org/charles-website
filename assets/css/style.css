@@ -966,16 +966,27 @@ aside li {
     }
 }
 
+.about-heading1 {
+    font-size: 50px;
+    font-weight: 600;
+    color: #000 !important;
+    line-height: 1.1;
+}
+
 /* End of 1.1. Header section */
 /* 1.2. Hero section */
 .Hero {
-    background: url(../images/index/bg.png);
+    background: url(../images/index/bg12.png);
     background-size: 100% 85%;
     background-repeat: no-repeat;
     background-position: top center;
     /* padding: 160px 0px 100px; */
     overflow-x: hidden;
     position: relative;
+}
+
+.uppercase{
+    
 }
 
 .Hero .bg-video {

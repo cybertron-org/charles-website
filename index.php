@@ -76,8 +76,8 @@
                   <div class="col-lg-6 pb-20">
                     <div data-aos="fade-up">
                         <img src="assets/images/index/truck.png" alt="">
-                        <h4>PEOPLE BEHIND <br> THE IDEA</h4>
-                        <!-- <h2 class="mt-0 about-heading">PEOPLE BEHIND THE IDEA</h2> -->
+                        <h4>Founders</h4>
+                        <h2 class="mt-0 about-heading1">PEOPLE BEHIND <br> THE IDEA</h2>
                         <p class="text">Knotty Logistics was founded by Charles Charlebois and Trent Welhemson, two
                             longtime entrepreneurs with hands-on experience in construction, trucking, and business.
                             After seeing firsthand how much time and money are lost to outdated communication and

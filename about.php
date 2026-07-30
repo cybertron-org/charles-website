@@ -87,13 +87,51 @@
 
 
     <!-- 1.3. About-us section -->
-    <section class="About-us">
+     <section class="About-us">
         <div class="container">
-            <div class="row">
+            <div class="row align-items-center">
+                  <div class="col-lg-6 pb-20">
+                    <div data-aos="fade-up">
+                        <img src="assets/images/index/truck.png" alt="">
+                        <h4>Founders</h4>
+                        <h2 class="mt-0 about-heading1">PEOPLE BEHIND <br> THE IDEA</h2>
+                        <p class="text">Knotty Logistics was founded by Charles Charlebois and Trent Welhemson, two
+                            longtime entrepreneurs with hands-on experience in construction, trucking, and business.
+                            After seeing firsthand how much time and money are lost to outdated communication and
+                            inefficient logistics, they set out to build a better way. Their goal is simple: create
+                            practical technology that connects the people who move materials, keeps trucks working, and
+                            makes the entire hauling process easier for everyone involved.</p>
+                        <!-- <p class="text">With Knotty, brokers, contractors, and drivers all work in one place: live truck
+                            counts, real-time material tracking, instant ticket sign-offs, and jobs closed out the
+                            moment the last load is dumped.</p> -->
+                        <br>
+                        <!-- <p class="text">
+                            Our system ensures that all collected data complies with <span class="dark-color">DOT
+                                standards,</span> making logistics
+                            management more efficient and transparent. Whether you're looking to post jobs, find
+                            transport solutions, or manage compliance, our platform provides everything you need in
+                            one place.
+                        </p> -->
+
+                       
+                        <!-- <div class="d-flex align-items-stretch justify-content-between gap-3 mx-auto my-3 m-lg-0"
+                                data-aos="flip-up">
+                                <div class="d-flex gap-3 align-items-start">
+                                    <img class="pt-1" src="assets/images/icons/drop_shipping.png" alt="aboutIcon1">
+                                    <h5 class="pt-2">Affordable Cost</h5>
+                                </div>
+                                <hr>
+                                <div class="d-flex gap-3 align-items-start">
+                                    <img src="assets/images/icons/delivery.png" alt="aboutIcon2">
+                                    <h5 class="pt-2">Short Time Delivery</h5>
+                                </div>
+                            </div> -->
+                    </div>
+                </div>
                 <div class="col-lg-6">
 
 
-                    <img class="w-100" src="assets/images/index/sec.jpg" alt="">
+                    <img class="w-100" src="assets/images/index/sec.svg" alt="">
                     <!-- <figure>
                                     <img src="assets/images/index/about1.png" alt="aboutImg1">
                                 </figure>
@@ -108,64 +146,20 @@
                                 <h2 class="m-0 "><span class="number" data-final-value="50">0</span>+</h2>
                                 <p class="m-0">Years of Experience</p>
                             </div> -->
-
-
                 </div>
 
-                <div class="col-lg-6 pb-20">
-                    <div data-aos="fade-up">
-                        <img src="assets/images/index/truck.png" alt="">
-                        <h4>About Us</h4>
-                        <h2 class="mt-0 about-heading">Simplifying Connection in One Digital Platform</h2>
-                        <p class="text">Knotty Logistics unites companies, contractors, fleet owners, and truckers in
-                            one simple platform. No more back-and-forth call; just smooth communication, live progress
-                            updates, and faster jobs from pit to pay.</p>
-                        <br>
-                        <!-- <p class="text">
-                            Our system ensures that all collected data complies with <span class="dark-color">DOT
-                                standards,</span> making logistics
-                            management more efficient and transparent. Whether you're looking to post jobs, find
-                            transport solutions, or manage compliance, our platform provides everything you need in
-                            one place.
-                        </p> -->
-
-                        <ul>
-                            <li class="text pb-10"><img class="pr-10" src="assets/images/index/arrow.png" alt="">
-                                Instant Load Visibility </li>
-                            <li class="text pb-10"><img class="pr-10" src="assets/images/index/arrow.png" alt="">
-                                Quick Digital Sign-Offs </li>
-                            <li class="text pb-10"><img class="pr-10" src="assets/images/index/arrow.png" alt="">
-                                Smart Compliance Tools </li>
-                            <li class="text"><img class="pr-10" src="assets/images/index/arrow.png" alt="">
-                                One Platform for All</li>
-                        </ul>
-                        <div class="ptb-15">
-                            <a target="_blank" href="https://www.knottylogistics.com/app" class="hover1">Read More</a>
-                        </div>
-                        <!-- <div class="d-flex align-items-stretch justify-content-between gap-3 mx-auto my-3 m-lg-0"
-                                data-aos="flip-up">
-                                <div class="d-flex gap-3 align-items-start">
-                                    <img class="pt-1" src="assets/images/icons/drop_shipping.png" alt="aboutIcon1">
-                                    <h5 class="pt-2">Affordable Cost</h5>
-                                </div>
-                                <hr>
-                                <div class="d-flex gap-3 align-items-start">
-                                    <img src="assets/images/icons/delivery.png" alt="aboutIcon2">
-                                    <h5 class="pt-2">Short Time Delivery</h5>
-                                </div>
-                            </div>  -->
-                    </div>
-                </div>
+              
             </div>
 
             <!-- <div class="row">
-            <div class="col-md-12">
-                <img class="w-100 d-none1" src="assets/images/index/export.png" alt="">
-            </div>
-        </div> -->
+                <div class="col-md-12">
+                    <img class="w-100 d-none1" src="assets/images/index/export.png" alt="">
+                </div>
+            </div> -->
+
             <div>
-                <!-- 
-             <h2 class="text-center">Trusted By <div class="d-inline-block "><span class="number"
+
+                <!-- <h2 class="text-center">Trusted By <div class="d-inline-block "><span class="number"
                                 data-final-value="250">0</span>+</div> Companies</h2>
                     <div class="CompaniesSlider  ">
                         <div><a href="#"><img src="assets/images/icons/logoipsum1.png" alt="logo1"></a></div>
@@ -178,7 +172,7 @@
                         <div><a href="#"><img src="assets/images/icons/logoipsum3.png" alt="logo8"></a></div>
                         <div><a href="#"><img src="assets/images/icons/logoipsum4.png" alt="logo9"></a></div>
                         <div><a href="#"><img src="assets/images/icons/logoipsum5.png" alt="logo10"></a></div>
-                    </div>  -->
+                    </div> -->
             </div>
         </div>
     </section>
