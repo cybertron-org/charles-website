@@ -388,7 +388,7 @@ a {
     content: "";
     width: 7%;           /* logo box size */
     height: 100%;
-    background-image: url("../images/index/logo.png"); /* <-- apna logo path */
+    background-image: url("../images/index/logo2.png"); /* <-- apna logo path */
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain; /* preserve aspect ratio */

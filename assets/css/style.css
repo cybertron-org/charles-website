@@ -969,7 +969,7 @@ aside li {
 /* End of 1.1. Header section */
 /* 1.2. Hero section */
 .Hero {
-    background: url(../images/hero-truck.jpg);
+    background: url(../images/index/bg.png);
     background-size: 100% 85%;
     background-repeat: no-repeat;
     background-position: top center;

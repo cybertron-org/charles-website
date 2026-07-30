@@ -72,11 +72,49 @@
     <!-- 1.3. About-us section -->
     <section class="About-us">
         <div class="container">
-            <div class="row">
+            <div class="row align-items-center">
+                  <div class="col-lg-6 pb-20">
+                    <div data-aos="fade-up">
+                        <img src="assets/images/index/truck.png" alt="">
+                        <h4>PEOPLE BEHIND <br> THE IDEA</h4>
+                        <!-- <h2 class="mt-0 about-heading">PEOPLE BEHIND THE IDEA</h2> -->
+                        <p class="text">Knotty Logistics was founded by Charles Charlebois and Trent Welhemson, two
+                            longtime entrepreneurs with hands-on experience in construction, trucking, and business.
+                            After seeing firsthand how much time and money are lost to outdated communication and
+                            inefficient logistics, they set out to build a better way. Their goal is simple: create
+                            practical technology that connects the people who move materials, keeps trucks working, and
+                            makes the entire hauling process easier for everyone involved.</p>
+                        <!-- <p class="text">With Knotty, brokers, contractors, and drivers all work in one place: live truck
+                            counts, real-time material tracking, instant ticket sign-offs, and jobs closed out the
+                            moment the last load is dumped.</p> -->
+                        <br>
+                        <!-- <p class="text">
+                            Our system ensures that all collected data complies with <span class="dark-color">DOT
+                                standards,</span> making logistics
+                            management more efficient and transparent. Whether you're looking to post jobs, find
+                            transport solutions, or manage compliance, our platform provides everything you need in
+                            one place.
+                        </p> -->
+
+                       
+                        <!-- <div class="d-flex align-items-stretch justify-content-between gap-3 mx-auto my-3 m-lg-0"
+                                data-aos="flip-up">
+                                <div class="d-flex gap-3 align-items-start">
+                                    <img class="pt-1" src="assets/images/icons/drop_shipping.png" alt="aboutIcon1">
+                                    <h5 class="pt-2">Affordable Cost</h5>
+                                </div>
+                                <hr>
+                                <div class="d-flex gap-3 align-items-start">
+                                    <img src="assets/images/icons/delivery.png" alt="aboutIcon2">
+                                    <h5 class="pt-2">Short Time Delivery</h5>
+                                </div>
+                            </div> -->
+                    </div>
+                </div>
                 <div class="col-lg-6">
 
 
-                    <img class="w-100" src="assets/images/index/sec.jpg" alt="">
+                    <img class="w-100" src="assets/images/index/sec.svg" alt="">
                     <!-- <figure>
                                     <img src="assets/images/index/about1.png" alt="aboutImg1">
                                 </figure>
@@ -93,53 +131,7 @@
                             </div> -->
                 </div>
 
-                <div class="col-lg-6 pb-20">
-                    <div data-aos="fade-up">
-                        <img src="assets/images/index/truck.png" alt="">
-                        <h4>About Us</h4>
-                        <h2 class="mt-0 about-heading">Why Knotty?</h2>
-                        <p class="text">Knotty Logistics was built by people who’ve lived the hauling grind. We know the
-                            headaches — endless calls, lost tickets, delays, and confusion on every job. That’s why we
-                            created the first real-time platform designed specifically for bulk aggregate hauling.</p>
-                        <p class="text">With Knotty, brokers, contractors, and drivers all work in one place: live truck
-                            counts, real-time material tracking, instant ticket sign-offs, and jobs closed out the
-                            moment the last load is dumped.</p>
-                        <br>
-                        <!-- <p class="text">
-                            Our system ensures that all collected data complies with <span class="dark-color">DOT
-                                standards,</span> making logistics
-                            management more efficient and transparent. Whether you're looking to post jobs, find
-                            transport solutions, or manage compliance, our platform provides everything you need in
-                            one place.
-                        </p> -->
-
-                        <ul>
-                            <li class="text pb-10"><img class="pr-10" src="assets/images/index/arrow.png" alt="">
-                                Real-Time Connection </li>
-                            <li class="text pb-10"><img class="pr-10" src="assets/images/index/arrow.png" alt="">
-                                End-to-End Simplicity </li>
-                            <li class="text pb-10"><img class="pr-10" src="assets/images/index/arrow.png" alt="">
-                                Created by Haulers, for Haulers </li>
-                            <li class="text"><img class="pr-10" src="assets/images/index/arrow.png" alt="">
-                                All-in-One Platform</li>
-                        </ul>
-                        <div class="ptb-15">
-                            <a target="_blank" href="https://www.knottylogistics.com/app" class="hover1">Read More</a>
-                        </div>
-                        <!-- <div class="d-flex align-items-stretch justify-content-between gap-3 mx-auto my-3 m-lg-0"
-                                data-aos="flip-up">
-                                <div class="d-flex gap-3 align-items-start">
-                                    <img class="pt-1" src="assets/images/icons/drop_shipping.png" alt="aboutIcon1">
-                                    <h5 class="pt-2">Affordable Cost</h5>
-                                </div>
-                                <hr>
-                                <div class="d-flex gap-3 align-items-start">
-                                    <img src="assets/images/icons/delivery.png" alt="aboutIcon2">
-                                    <h5 class="pt-2">Short Time Delivery</h5>
-                                </div>
-                            </div> -->
-                    </div>
-                </div>
+              
             </div>
 
             <!-- <div class="row">
@@ -288,11 +280,12 @@
                                     connected, and always up to date.</p>
                             </div>
                         </div>
-                        <div><a target="_blank" href="https://www.knottylogistics.com/contact" class="hover1">Book a Demo</a></div>
+                        <div><a target="_blank" href="https://www.knottylogistics.com/contact" class="hover1">Book a
+                                Demo</a></div>
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <img class="w-100" src="assets/images/index/mob.png" alt="">
+                    <img class="w-100" src="assets/images/index/mob1.png" alt="">
                 </div>
             </div>
         </div>
@@ -360,25 +353,24 @@
                         <p>Stop chasing calls and paper tickets. Knotty keeps your jobs moving — simple, fast, and
                             digital in real time.</p>
                         <br>
-                        <div><a href="https://dashboard.knottylogistics.com/login"
-                                class="hover1">Join NOW</a></div>
+                        <div><a href="https://dashboard.knottylogistics.com/login" class="hover1">Join NOW</a></div>
                     </div>
                 </div>
                 <!-- Video Card -->
                 <div class="col-md-5">
                     <div class="ptb-15">
-                    <div class="videoBox " data-video-id="dJtaOXD-Wdg">
-                        <img src="assets/images/About/knotty.png" alt="Video Thumbnail" class="video-thumb">
-                        <a class="video-play-btn" aria-label="Play video">
-                            <span class="fa-solid fa-play"></span>
-                        </a>
-                        <div class="video-frame">
-                            <iframe title="YouTube video player"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                allowfullscreen referrerpolicy="strict-origin-when-cross-origin">
-                            </iframe>
+                        <div class="videoBox " data-video-id="dJtaOXD-Wdg">
+                            <img src="assets/images/About/knotty.png" alt="Video Thumbnail" class="video-thumb">
+                            <a class="video-play-btn" aria-label="Play video">
+                                <span class="fa-solid fa-play"></span>
+                            </a>
+                            <div class="video-frame">
+                                <iframe title="YouTube video player"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                    allowfullscreen referrerpolicy="strict-origin-when-cross-origin">
+                                </iframe>
+                            </div>
                         </div>
-                    </div>
                     </div>
                 </div>
             </div>
@@ -493,5 +485,3 @@
 
 
     <?php include 'footer.php'; ?>
-
-    

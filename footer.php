@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <a href="/" onclick="navigateToParent('/')"> <img class="w-51" src="assets/images/index/logo.png"
+                <a href="/" onclick="navigateToParent('/')"> <img class="w-51" src="assets/images/index/logo1.png"
                         alt=""></a>
                 <!-- <p class="head">Knotty Logistics</p> -->
                 <p class="ftext">Developed By HOI Solutions.

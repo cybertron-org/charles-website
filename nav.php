@@ -18,7 +18,7 @@
         <nav class="navbar navbar-expand-lg">
             <div class="container">
                 <a href="https://www.knottylogistics.com/" class="nav-logo" onclick="navigateToParent('/')">
-                    <figure><img src="assets/images/index/logo.png" alt="logo"></figure>
+                    <figure><img src="assets/images/index/logo1.png" alt="logo"></figure>
                 </a>
                 <div class="collapse navbar-collapse">
                     <ul class="navbar-nav mb-2 mb-lg-0">
