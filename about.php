@@ -283,7 +283,7 @@
                 <div class="col-lg-6">
 
 
-                    <img class="w-100" src="assets/images/index/mob.png" alt="">
+                    <img class="w-100" src="assets/images/index/mob1.png" alt="">
 
 
 
