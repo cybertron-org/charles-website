@@ -4132,7 +4132,7 @@ footer a {
     font-style: normal;
     font-weight: 300;
     line-height: 1.9;
-    text-transform: capitalize;
+    text-transform: full-size-kana;
     /* line-height: 1.9; */
 }
 

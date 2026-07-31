@@ -54,7 +54,7 @@
         <br>
         <hr class="border-light">
         <div class="text-center flinks">
-            <p>&copy; 2025 Knotty Logistics. All rights reserved.</p>
+            <p>&copy; 2026 Knotty Logistics. All rights reserved.</p>
         </div>
     </div>
 </footer>
