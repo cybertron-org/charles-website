@@ -977,7 +977,7 @@ aside li {
 /* 1.2. Hero section */
 .Hero {
     background: url(../images/index/bg12.png);
-    background-size: 100% 85%;
+    background-size: 100%;
     background-repeat: no-repeat;
     background-position: top center;
     /* padding: 160px 0px 100px; */
@@ -1009,7 +1009,7 @@ aside li {
     height: 85%;
     position: absolute;
     /* background: linear-gradient(90deg, #000000 -14.3%, rgba(0, 0, 0, 0.74) 41.8%, rgba(0, 0, 0, 0.21) 100.18%); */
-    background: linear-gradient(90deg, #173036 0%, rgba(0, 74, 173, 0.00) 100%);
+    /* background: linear-gradient(90deg, #173036 0%, rgba(0, 74, 173, 0.00) 100%); */
     z-index: 0;
 }
 
@@ -1022,10 +1022,10 @@ aside li {
     top: 0px;
     left: 0px;
     width: 100%;
-    height: 85%;
-    position: absolute;
+    /* height: 85%; */
+    /* position: absolute; */
     /* background: linear-gradient(90deg, #000000 -14.3%, rgba(0, 0, 0, 0.74) 41.8%, rgba(0, 0, 0, 0.21) 100.18%); */
-    background: linear-gradient(90deg, #173036 0%, rgba(0, 74, 173, 0.00) 100%);
+    /* background: linear-gradient(90deg, #173036 0%, rgba(0, 74, 173, 0.00) 100%); */
     z-index: 0;
 }
 
